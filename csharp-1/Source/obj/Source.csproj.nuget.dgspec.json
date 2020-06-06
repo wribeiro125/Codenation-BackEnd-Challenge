@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Willian\\codenation\\csharp-1\\Source\\Source.csproj": {}
+    "C:\\Users\\Willian\\Source\\Repos\\Codenation-BackEnd-ChallengeTesteGit\\csharp-1\\Source\\Source.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Willian\\codenation\\csharp-1\\Source\\Source.csproj": {
+    "C:\\Users\\Willian\\Source\\Repos\\Codenation-BackEnd-ChallengeTesteGit\\csharp-1\\Source\\Source.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Willian\\codenation\\csharp-1\\Source\\Source.csproj",
+        "projectUniqueName": "C:\\Users\\Willian\\Source\\Repos\\Codenation-BackEnd-ChallengeTesteGit\\csharp-1\\Source\\Source.csproj",
         "projectName": "Source",
-        "projectPath": "C:\\Users\\Willian\\codenation\\csharp-1\\Source\\Source.csproj",
+        "projectPath": "C:\\Users\\Willian\\Source\\Repos\\Codenation-BackEnd-ChallengeTesteGit\\csharp-1\\Source\\Source.csproj",
         "packagesPath": "C:\\Users\\Willian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Willian\\codenation\\csharp-1\\Source\\obj\\",
+        "outputPath": "C:\\Users\\Willian\\Source\\Repos\\Codenation-BackEnd-ChallengeTesteGit\\csharp-1\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

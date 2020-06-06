@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fdTIOidwAE/kWgOBkEgVgCA+9we1ahZi6CU0g9zmDc9eEQ8wp4jnfIIm6DpI+gR7mnbpUrmu6O4ZAxNZ4eZsGA==",
+  "dgSpecHash": "zxdyup8N1jR37cp/Z11+POtNdsfFINqKTptqcs5zrq1SVvBwasFOXC74XsYQ5EMWJJwvYVZWM0X8ckado7rCTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Willian\\codenation\\csharp-1\\Source\\Source.csproj",
+  "projectFilePath": "C:\\Users\\Willian\\Source\\Repos\\Codenation-BackEnd-ChallengeTesteGit\\csharp-1\\Source\\Source.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Willian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Willian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

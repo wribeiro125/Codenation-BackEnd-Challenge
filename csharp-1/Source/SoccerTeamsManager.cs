@@ -14,7 +14,6 @@ namespace Codenation.Challenge
 
         public SoccerTeamsManager()
         {
-            
         }
         
         public void AddTeam(long id, string name, DateTime createDate, string mainShirtColor, string secondaryShirtColor)
